@@ -6,25 +6,25 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 copy-file
-AIM:
+## AIM:
 To write a python program for copying the contents from one file to another file.
 
-EQUIPEMENT'S REQUIRED:
+## EQUIPEMENT'S REQUIRED:
 PC Anaconda - Python 3.7
 
-ALGORITHM:
-Step 1:
+## ALGORITHM:
+### Step 1:
  From shutil import copyfile
  From sys import exit
-Step 2:
+ ### Step 2:
  Take users the name of source and destination files.
-Step 3:
+### Step 3:
 If the source there is a source file then copy the contents of source file to the destination file.
-Step 4:
+### Step 4:
  Read each line from the input file and write it into the output file.
-Step 5:
+### Step 5:
  Then print.
-Step 6:
+### Step 6:
  End the program.
 ## PROGRAM:
 ~~~ python
